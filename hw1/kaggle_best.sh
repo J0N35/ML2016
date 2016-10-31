@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python kaggle_best.py
+python3 kaggle_best.py
