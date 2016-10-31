@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python linear_regression.py
+python3 linear_regression.py
