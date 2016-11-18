@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 prediction_from_model.py $1 $2 $3
+python3 prediction_from_encoder.py $1 $2 $3
