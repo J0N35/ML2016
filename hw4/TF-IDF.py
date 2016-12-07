@@ -93,9 +93,6 @@ def preprocess(text):
 def main(directory_path, output_path):
     import load_data
 
-    directory_path = "dataset/"
-    output_path = "output_TFIDF.csv"
-
     # ===== Import Data =====
     print('Importing Data...', end='')
     test_data, title_data, doc_data = load_data.import_data(directory_path)
